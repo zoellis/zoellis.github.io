@@ -18,7 +18,7 @@
     "href": "zoellis.github.io/about.html",
     "title": "About",
     "section": "",
-    "text": "Test"
+    "text": "My email: zoellis@colostate.edu"
   },
   {
     "objectID": "zoellis.github.io/index.html",
@@ -47,5 +47,26 @@
     "title": "Projects",
     "section": "Building a project website",
     "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "zoellis.github.io/resources.html",
+    "href": "zoellis.github.io/resources.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+  },
+  {
+    "objectID": "zoellis.github.io/resources.html#building-a-project-website",
+    "href": "zoellis.github.io/resources.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "zoellis.github.io/resume.html",
+    "href": "zoellis.github.io/resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Test"
   }
 ]
