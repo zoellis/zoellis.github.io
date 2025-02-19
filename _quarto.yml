@@ -4,14 +4,17 @@ project:
 
 website:
   title: "Zoe Ellis"
+  page-footer: "© 2025 Zoe Ellis | All rights reserved."
+  favicon: favicon.ico
   navbar:
     right:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About
+      - href: ZEResume.pdf
+        text: Resume
+        target: _blank
       - href: resources.qmd
-        text: Resources
+        text: Projects
       - href: file/path/to/myCV.pdf  # Providing a relative file path to a PDF
         text: CV
         target: _blank  # Opens link (or page) in a new browser tab
@@ -21,11 +24,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+    - sketchy
+    - styles.scss
     toc: true
     page-layout: full

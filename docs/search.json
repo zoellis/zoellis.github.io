@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My email: zoellis@colostate.edu"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zoe Ellis",
     "section": "",
-    "text": "Hi! I am a 4th year Ecosystem Sciences Student at CSU where I also obtained my minor in Entomology and Zoology. During my first year of undergrad, I got involved in the Biology Teaching Collections where I now hold a position as Personal Relations Officer for our newly founded club. I have experience in RStudio, data basing, specimen prep and preservation, community outreach, and leadership."
+    "text": "Hi! I am a 4th year Ecosystem Sciences Student at CSU where I also obtained my minor in Entomology and Zoology. During my first year of undergrad, I got involved in the Biology Teaching Collections where I now hold a position as Personal Relations Officer for our newly founded club. I hope to continue my involvement with Museum Studies and community outreach with science."
   },
   {
     "objectID": "zoellis.github.io/about.html",
     "href": "zoellis.github.io/about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Test"
   },
   {
     "objectID": "zoellis.github.io/index.html",
@@ -26,5 +26,26 @@
     "title": "Zoe Ellis",
     "section": "",
     "text": "Hi! I am a 4th year Ecosystem Sciences Student at CSU where I also obtained my minor in Entomology and Zoology. During my first year of undergrad, I got involved in the Biology Teaching Collections where I now hold a position as Personal Relations Officer for our newly founded club. I have experience in RStudio, data basing, specimen prep and preservation, community outreach, and leadership.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Test"
+  },
+  {
+    "objectID": "resources.html#building-a-project-website",
+    "href": "resources.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
   }
 ]
