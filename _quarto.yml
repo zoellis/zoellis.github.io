@@ -3,8 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "zoellis.github.io"
+  title: "Zoe Ellis"
   navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
+      - href: file/path/to/myCV.pdf  # Providing a relative file path to a PDF
+        text: CV
+        target: _blank  # Opens link (or page) in a new browser tab
+      - icon: github  # Add icons as navbar buttons
+        href: https://github.com/zoellis  # Correct GitHub link format
+        target: _blank
     left:
       - href: index.qmd
         text: Home
@@ -15,6 +28,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: full

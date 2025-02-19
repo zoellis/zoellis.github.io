@@ -1,12 +1,23 @@
 ---
 title: "Zoe Ellis"
-about:
-  template: trestles
+image: headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/zoe-ellis-04a264228/
+    - text: GitHub
+      href: https://github.com/zoellis
+    - text: Email
+      href: mailto:zoellis@colostate.edu
 ---
+
+```{r, echo=FALSE}
+
+
 
 Hi! I am a 4th year Ecosystem Sciences Student at CSU where I also obtained my minor in Entomology and Zoology. During my first year of undergrad, I got involved in the Biology Teaching Collections where I now hold a position as Personal Relations Officer for our newly founded club. I have experience in RStudio, data basing, specimen prep and preservation, community outreach, and leadership.
 
-
-```{r}
-1 + 1
-```
